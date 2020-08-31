@@ -1,0 +1,36 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{array}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage[figurename=Figura]{caption}
+\usepackage{multicol}
+
+\begin{document}
+
+\begin{flushleft}
+    PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE\\
+    FACULTAD DE MATEMÁTICAS.\\
+    \underline{DEPARTAMENTO DE MATEMÁTICAS}.\\
+\end{flushleft}
+
+\begin{center}
+    \begin{LARGE}
+        \textbf{AYUDANTÍA X}\\
+        \textbf{CÁLCULO II $\star$ MAT1630-1 $\star$ 2020-1}\\
+    \end{LARGE}
+    Alexander Filsecker $\star$ afilsecker@uc.cl
+\end{center}
+
+\begin{enumerate}
+    \item 
+\end{enumerate}
+
+\end{document}
